@@ -5,5 +5,7 @@
 - Установлен режим gvisor для TUN по умолчанию
 
 Файл с настройками кладётся в папку - %appdata%\Roaming\com.follow
-Программа калёдтся в папку - %appdata%\Local\Programs\FLClash
+
+Программа кладётся в папку - %appdata%\Local\Programs\FLClash
+
 Создаётся ярлык на рабочем столе пользователя
