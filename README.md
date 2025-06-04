@@ -1,4 +1,9 @@
 # FLСlash RU Setup
+![Windows](https://img.shields.io/badge/Windows-8.1%2B-brightgreen)
+
+FlClash (Original) - https://github.com/chen08209/FlClash
+
+---
 - Отключен Ситемный прокси по умолчанию
 - Включён TUN по умолчанию
 - Включён "режим поиска процессов" по умолчанию
