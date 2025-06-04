@@ -5,12 +5,12 @@
 - Установлен режим gvisor для TUN по умолчанию
 ---
 - Файл с настройками кладётся в папку - %appdata%\Roaming\com.follow
-- Программа кладётся в папку - %appdata%\Local\Programs\FLClash
+- Программа кладётся в папку - %localappdata%\Programs\FLClash
 - Создаётся ярлык на рабочем столе пользователя
 ---
 # Удаление/Uninstall
 1. Закрыть программу
-2. Выполнить %appdata%\Local\Programs\FLClash\unins000.exe
+2. Выполнить %localappdata%\Programs\FLClash\unins000.exe
 
 или
 
