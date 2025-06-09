@@ -28,6 +28,7 @@ Source: "C:\Users\Davoyan\Desktop\FLClash-Setting-Build\*"; DestDir: "{userappda
 
 [Icons]
 Name: "{userdesktop}\FLClash"; Filename: "{app}\FLClash.exe"
+Name: "{group}\FLClash"; Filename: "{app}\FLClash.exe"
 
 [UninstallDelete]
 Type: filesandordirs; Name: "{app}"
