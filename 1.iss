@@ -4,7 +4,7 @@ Name: "Russian"; MessagesFile: "compiler:Languages\Russian.isl"
 [Setup]
 AppId={{f6897eb3-92e7-4114-b1d7-9222a5cf55d5}}
 AppName=FLClash
-AppVersion=0.8.85
+AppVersion=0.8.86
 AppVerName=FLClash
 DefaultDirName={localappdata}\Programs\FLClash
 DefaultGroupName=FLClash
